@@ -13,7 +13,7 @@ Cheese-LinuxISO-SHA256-tools是一款面向Linux系统的图形化工具，用�
 1. 从Releases页面下载最新版本的tar.gz安装包：https://github.com/cfkbd2013/Cheese-LinuxISO-SHA256-tools/releases
 2. 解压安装包：tar -zxvf cheese-linuxiso-sha256-tools-1.0.0.tar.gz
 3. 进入解压目录：cd cheese-linuxiso-sha256-tools-1.0.0
-4. 执行安装（自动安装PyQt5依赖）：sudo pip3 install .
+4. 执行安装（自动安装PyQt5依赖）：sudo pip3 install
 
 ## 使用方法
 1. 安装完成后，任意终端输入命令启动工具：clst
@@ -41,7 +41,7 @@ Cheese-LinuxISO-SHA256-tools es una herramienta gráfica para sistemas Linux, di
 1. Descarga el paquete de instalación tar.gz de la última versión desde la página de Releases: https://github.com/cfkbd2013/Cheese-LinuxISO-SHA256-tools/releases
 2. Extrae el paquete de instalación: tar -zxvf cheese-linuxiso-sha256-tools-1.0.0.tar.gz
 3. Accede al directorio extraído: cd cheese-linuxiso-sha256-tools-1.0.0
-4. Ejecuta la instalación (instala automáticamente las dependencias de PyQt5): sudo pip3 install .
+4. Ejecuta la instalación (instala automáticamente las dependencias de PyQt5): sudo pip3 install
 
 ## Modo de uso
 1. Después de la instalación, ingresa el comando en cualquier terminal para iniciar la herramienta: clst
@@ -69,7 +69,7 @@ Cheese-LinuxISO-SHA256-tools es una herramienta gráfica para sistemas Linux, ut
 1. Descarga el paquete de instalación tar.gz de la última versión desde la página de Releases: https://github.com/cfkbd2013/Cheese-LinuxISO-SHA256-tools/releases
 2. Extrae el paquete de instalación: tar -zxvf cheese-linuxiso-sha256-tools-1.0.0.tar.gz
 3. Accede al directorio extraído: cd cheese-linuxiso-sha256-tools-1.0.0
-4. Ejecuta la instalación (instala automáticamente las dependencias de PyQt5): sudo pip3 install .
+4. Ejecuta la instalación (instala automáticamente las dependencias de PyQt5): sudo pip3 install
 
 ## Modo de uso
 1. Después de la instalación, ingresa el comando en cualquier terminal para iniciar la herramienta: clst
